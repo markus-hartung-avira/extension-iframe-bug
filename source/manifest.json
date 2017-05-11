@@ -18,5 +18,10 @@
   ],
   "web_accessible_resources": [
     "iframe.html"
-  ]
+  ],
+  "applications": {
+    "gecko": {
+      "id": "iframe-bug@avira.com"
+    }
+  }
 }
